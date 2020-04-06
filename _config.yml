@@ -96,8 +96,8 @@ ignore:
 theme: landscape
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https://hexo.io/docs/deployment.htsml
 deploy:
   type: git
   repo: https://github.com/Bamboo-cloud/Bamboo-cloud.github.io.git
-  branch: master
+  branch: public
